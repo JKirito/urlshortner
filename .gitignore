@@ -3,3 +3,10 @@ node_modules
 coverage
 .git 
 .env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
